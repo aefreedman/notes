@@ -1,6 +1,59 @@
-#NBC Ncredible Client Consulting Workshop
+#NYU Game Center + NYC Media Lab + NBC Client Consulting Workshop Takeaways and Notes
 
-###Outline
+This past Saturday I participated in a workshop at the NYU Game Center in partnership with the NYC Media Lab and NBC. A small team inside NBC was seeking feedback and game design thinking on a news quiz game they are developing. About a dozen Game Center students and alumni joined, and we worked with Wade Tinney as he guided us through the process. These are a few of the takeaways from the workshop.
+
+<!-- MarkdownTOC depth=0 -->
+
+- Workshop Format
+- Notes from the consultation bootcamp
+    - Meeting the Client
+    - Questions you should ask the client
+- Takeaways
+- Notes
+
+<!-- /MarkdownTOC -->
+
+
+## Workshop Format
+1. Client consultation bootcamp with Wade Tinney
+2. Project pitch and summary from NBC
+3. Breakout session in small teams to create response pitches
+4. Short question and answer session with the client (NBC)
+5. Final touches to presentation & dry run feedback from Wade
+6. Live pitches to client with feedback
+   
+## Notes from the consultation bootcamp
+### Meeting the Client
+* Pay attention to body language
+    - Posture, esp. seating and arms
+* Listen actively
+    - Take notes (it signals that you are paying attention)
+* Imagine that you are already part of the team
+    - Making suggestions as "we" instead of "you" or "I" helps you and the client imagine your collaboration
+* Communicate your enthusiasm
+* Have questions
+* Treat calls (remote meetings) the same way you would treat in-person meetings
+* Ask to meet the client in-person if possible
+
+### Questions you should ask the client
+Note: Use your judgement on how and when to ask these questions.
+* What development resources are available? (Team size, experience, other partnerships, etc.)
+* What is the budget? Audience? Platform?
+* Scope? Timeline?
+* Monetization strategy? (Business model)
+* What does the client already know about the game?
+* What data do we have from playtesting?
+* What is success for this project?
+* What heuristics are we using to measure success?
+* What is the marketing strategy?
+* Who else is competing for the contract? (If you're pitching something)
+* Who is making decisions about the contract award?
+* How real is the project and where is the RFP coming from?
+* Has the client worked on games before?
+* Who else has the client worked with?
+* Who is the competition (for the product)? (Market analysis)
+
+## Takeaways
 * Data driven game design or game design as a formula
 * Bring back the fun
 * Too many cooks in the kitchen
@@ -12,6 +65,7 @@
 
 ---
 
+## Notes
 * Was interesting to see how game ideas come out of large companies
     - someone at the company as an idea that involves a game and they think it would be a good thing to make, they get a budget to work on a prototype.
 * Surprised a the budget provided to the team to make the prototype
