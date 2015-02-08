@@ -15,6 +15,7 @@ This past Saturday I participated in a workshop at the NYU Game Center in partne
 <!-- /MarkdownTOC -->
 
 ## Workshop Format
+The workshop ran from 10AM to 5PM (we ran a bit over time)
 1. Client consultation bootcamp with Wade Tinney
 2. Project pitch and summary from NBC
 3. Breakout session in small teams to create response pitches
@@ -59,13 +60,15 @@ Note: Use your judgement on how and when to ask these questions.
 * Bring back the fun
     - I was taken aback that user enjoyment (*fun*) wasn't a key performance indicator (KPI). I was yelling "Games are supposed to be fun!" at one point during the breakout session.
 * Too many cooks in the kitchen
-    - I could see how the development team was struggling to satisfy the requirements of multiple stakeholders inside NBC.
+    - I could see how the development team was struggling to satisfy the requirements of multiple stakeholders inside NBC. This showed in the way that the development team presented the game to us.
 * Lean startup via megacorp
-    - With the previous point in mind, it was also curious to see the parallels between a small startup (like my own) and the development team inside NBC. The most significant difference, business-wise, was that they have a clear investor.
+    - With the previous point in mind, it was also curious to see the parallels between a small startup (like my own) and the development team inside NBC. The most significant difference, business-wise, was that they have an established investor with clear requirements.
 * Think about the designers
     - As a designer, I sometimes get caught up thinking about game designs as systems or otherwise abstract constructs that exist on their own. Consulting is different in that you also need to mind the needs and desires of the client, of course with respect to the project, but more importantly with respect to the client as other humans whom you're collaborating with.
 * Thinking through designs that are not yours is refreshing
     - It's fun to think through a design problem that you don't need to see through to completion. It's also fun to insert yourself into a project that is already in production. It's much more like being a tinker or a hacker, or maybe even a bit like being a doctor.
+* Don't get sucked into the black hole
+    - This is a counterpoint to the previous point about seeing the project through the eyes of the client. In retrospect I wish we had taken a riskier approach in the ideas we pitched to the client.
 * Content creation for a news game is a design problem
     - I kept returning to content when I was thinking through the design. The essential question was how do you efficiently and effectively create daily questions from news (when you have four people on the development team). There's no obvious solution. I could go into much greater detail on this but I'll save it for another time.
 * Valuable playtesting practices are not obvious
