@@ -1,5 +1,17 @@
 #NBC Ncredible Client Consulting Workshop
 
+###Outline
+* Data driven game design or game design as a formula
+* Bring back the fun
+* Too many cooks in the kitchen
+* Lean startup via megacorp
+* Think about the designers
+* Content creation for a news game is a design problem
+* Valuable playtesting practices are not obvious
+* Thinking through designs that are not yours is refreshing
+
+---
+
 * Was interesting to see how game ideas come out of large companies
     - someone at the company as an idea that involves a game and they think it would be a good thing to make, they get a budget to work on a prototype.
 * Surprised a the budget provided to the team to make the prototype
