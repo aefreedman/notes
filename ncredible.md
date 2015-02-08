@@ -1,7 +1,7 @@
 #Client Consulting Workshop Takeaways and Notes
 ### NYU Game Center + NYC Media Lab + NBC 
 
-This past Saturday I participated in a workshop at the NYU Game Center in partnership with the NYC Media Lab and NBC. A small team inside NBC was seeking feedback and game design thinking on a news quiz game they are developing. About a dozen Game Center students and alumni joined, and we worked with Wade Tinney as he guided us through the process. These are a few of the takeaways from the workshop.
+This past Saturday I participated in a workshop at the NYU Game Center in partnership with the NYC Media Lab and NBC. A small development team inside NBC sought feedback and game design thinking on their news quiz game. About a dozen Game Center students and alumni joined and we worked with Wade Tinney as he guided us through the process. These are a few of the takeaways from the workshop.
 
 ## Contents
 <!-- MarkdownTOC autolink=true bracket=round depth=0 -->
@@ -72,7 +72,7 @@ Note: Use your judgement on how and when to ask these questions.
 * Content creation for a news game is a design problem
     - I kept returning to content when I was thinking through the design. The essential question was how do you efficiently and effectively create daily questions from news (when you have four people on the development team). There's no obvious solution. I could go into much greater detail on this but I'll save it for another time.
 * Valuable playtesting practices are not obvious
-    - Given that MAU and retention were critical to the KPI formula the team was using, I was shocked that there wasn't a heuristic for determining whether they were accomplishing this with their current iteration. Retention is difficult to track until it's live, but I think you can also get a good sense of how compelling an experience you're creating by playtesting with users that aren't friends and family. This relates back to including "fun" as a KPI and having _some_ kind of methodology for interpreting playtesting results (simply collecting data doesn't count!).
+    - Given that MAU and retention were critical to the KPI formula the team was using, I was shocked that there wasn't a heuristic for determining whether they were accomplishing this with their current iteration. Retention is difficult to track until it's live, but I think you can also get a good sense of how compelling an experience you're creating by playtesting with users that aren't friends and family. This relates back to including "fun" as a KPI and having _some_ kind of methodology for interpreting playtesting results (simply collecting data doesn't count!). Valuable information comes from qualitiative methods and part of the art of game design is interpreting qualitative feedback.
 
 ---
  Notes
