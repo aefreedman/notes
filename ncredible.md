@@ -3,7 +3,7 @@
 
 This past Saturday I participated in a workshop at the NYU Game Center in partnership with the NYC Media Lab and NBC. A small development team inside NBC sought feedback and game design thinking on their news quiz game. About a dozen Game Center students and alumni joined and we worked with Wade Tinney as he guided us through the process. These are a few of the takeaways from the workshop.
 
-## Contents
+## tl;dr
 <!-- MarkdownTOC autolink=true bracket=round depth=0 -->
 
 - [Workshop Format](#workshop-format)
@@ -15,7 +15,9 @@ This past Saturday I participated in a workshop at the NYU Game Center in partne
 <!-- /MarkdownTOC -->
 
 ## Workshop Format
+
 The workshop ran from 10AM to 5PM (we ran a bit over time)
+
 1. Client consultation bootcamp with Wade Tinney
 2. Project pitch and summary from NBC
 3. Breakout session in small teams to create response pitches
@@ -24,7 +26,9 @@ The workshop ran from 10AM to 5PM (we ran a bit over time)
 6. Live pitches to client with feedback
    
 ## Notes from the consultation bootcamp
+
 ### Meeting the Client
+
 * Pay attention to body language
     - Posture, esp. seating and arms
 * Listen actively
@@ -37,7 +41,9 @@ The workshop ran from 10AM to 5PM (we ran a bit over time)
 * Ask to meet the client in-person if possible
 
 ### Questions you should ask the client
+
 Note: Use your judgement on how and when to ask these questions.
+
 * What development resources are available? (Team size, experience, other partnerships, etc.)
 * What is the budget? Audience? Platform?
 * Scope? Timeline?
@@ -55,23 +61,23 @@ Note: Use your judgement on how and when to ask these questions.
 * Who is the competition (for the product)? (Market analysis)
 
 ## Takeaways
-* Data driven game design or game design as a formula
+* __Game design as a formula__
     - I was surprised by the emphasis on player rentention and virality from the _inception_ of the development process. I sympathize with the necessity for games like this to self-sustain when run as a service, but I also believe that thinking about MAU and MARPU _from the start of the design process_ is detrimental.
-* Bring back the fun
+* __Bring back the fun__
     - I was taken aback that user enjoyment (*fun*) wasn't a key performance indicator (KPI). I was yelling "Games are supposed to be fun!" at one point during the breakout session.
-* Too many cooks in the kitchen
+* __Too many cooks in the kitchen__
     - I could see how the development team was struggling to satisfy the requirements of multiple stakeholders inside NBC. This showed in the way that the development team presented the game to us.
-* Lean startup via megacorp
+* __Lean startup via megacorp__
     - With the previous point in mind, it was also curious to see the parallels between a small startup (like my own) and the development team inside NBC. The most significant difference, business-wise, was that they have an established investor with clear requirements.
-* Think about the designers
+* __Think about the designers__
     - As a designer, I sometimes get caught up thinking about game designs as systems or otherwise abstract constructs that exist on their own. Consulting is different in that you also need to mind the needs and desires of the client, of course with respect to the project, but more importantly with respect to the client as other humans whom you're collaborating with.
-* Thinking through designs that are not yours is refreshing
+* __Thinking through designs that are not yours is refreshing__
     - It's fun to think through a design problem that you don't need to see through to completion. It's also fun to insert yourself into a project that is already in production. It's much more like being a tinker or a hacker, or maybe even a bit like being a doctor.
-* Don't get sucked into the black hole
+* __Don't get sucked into the black hole__
     - This is a counterpoint to the previous point about seeing the project through the eyes of the client. In retrospect I wish we had taken a riskier approach in the ideas we pitched to the client.
-* Content creation for a news game is a design problem
+* __Content creation for a news game is a design problem__
     - I kept returning to content when I was thinking through the design. The essential question was how do you efficiently and effectively create daily questions from news (when you have four people on the development team). There's no obvious solution. I could go into much greater detail on this but I'll save it for another time.
-* Valuable playtesting practices are not obvious
+* __Valuable playtesting practices are not obvious__
     - Given that MAU and retention were critical to the KPI formula the team was using, I was shocked that there wasn't a heuristic for determining whether they were accomplishing this with their current iteration. Retention is difficult to track until it's live, but I think you can also get a good sense of how compelling an experience you're creating by playtesting with users that aren't friends and family. This relates back to including "fun" as a KPI and having _some_ kind of methodology for interpreting playtesting results (simply collecting data doesn't count!). Valuable information comes from qualitiative methods and part of the art of game design is interpreting qualitative feedback.
 
 ---
