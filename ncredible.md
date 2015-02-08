@@ -1,18 +1,18 @@
-#NYU Game Center + NYC Media Lab + NBC Client Consulting Workshop Takeaways and Notes
+#Client Consulting Workshop Takeaways and Notes
+### NYU Game Center + NYC Media Lab + NBC 
 
 This past Saturday I participated in a workshop at the NYU Game Center in partnership with the NYC Media Lab and NBC. A small team inside NBC was seeking feedback and game design thinking on a news quiz game they are developing. About a dozen Game Center students and alumni joined, and we worked with Wade Tinney as he guided us through the process. These are a few of the takeaways from the workshop.
 
-<!-- MarkdownTOC depth=0 -->
+## Contents
+<!-- MarkdownTOC autolink=true bracket=round depth=0 -->
 
-- Workshop Format
-- Notes from the consultation bootcamp
-    - Meeting the Client
-    - Questions you should ask the client
-- Takeaways
-- Notes
+- [Workshop Format](#workshop-format)
+- [Notes from the consultation bootcamp](#notes-from-the-consultation-bootcamp)
+    - [Meeting the Client](#meeting-the-client)
+    - [Questions you should ask the client](#questions-you-should-ask-the-client)
+- [Takeaways](#takeaways)
 
 <!-- /MarkdownTOC -->
-
 
 ## Workshop Format
 1. Client consultation bootcamp with Wade Tinney
@@ -55,17 +55,24 @@ Note: Use your judgement on how and when to ask these questions.
 
 ## Takeaways
 * Data driven game design or game design as a formula
+    - I was surprised by the emphasis on player rentention and virality from the _inception_ of the development process. I sympathize with the necessity for games like this to self-sustain when run as a service, but I also believe that thinking about MAU and MARPU _from the start of the design process_ is detrimental.
 * Bring back the fun
+    - I was taken aback that user enjoyment (*fun*) wasn't a key performance indicator (KPI). I was yelling "Games are supposed to be fun!" at one point during the breakout session.
 * Too many cooks in the kitchen
+    - I could see how the development team was struggling to satisfy the requirements of multiple stakeholders inside NBC.
 * Lean startup via megacorp
+    - With the previous point in mind, it was also curious to see the parallels between a small startup (like my own) and the development team inside NBC. The most significant difference, business-wise, was that they have a clear investor.
 * Think about the designers
-* Content creation for a news game is a design problem
-* Valuable playtesting practices are not obvious
+    - As a designer, I sometimes get caught up thinking about game designs as systems or otherwise abstract constructs that exist on their own. Consulting is different in that you also need to mind the needs and desires of the client, of course with respect to the project, but more importantly with respect to the client as other humans whom you're collaborating with.
 * Thinking through designs that are not yours is refreshing
+    - It's fun to think through a design problem that you don't need to see through to completion. It's also fun to insert yourself into a project that is already in production. It's much more like being a tinker or a hacker, or maybe even a bit like being a doctor.
+* Content creation for a news game is a design problem
+    - I kept returning to content when I was thinking through the design. The essential question was how do you efficiently and effectively create daily questions from news (when you have four people on the development team). There's no obvious solution. I could go into much greater detail on this but I'll save it for another time.
+* Valuable playtesting practices are not obvious
+    - Given that MAU and retention were critical to the KPI formula the team was using, I was shocked that there wasn't a heuristic for determining whether they were accomplishing this with their current iteration. Retention is difficult to track until it's live, but I think you can also get a good sense of how compelling an experience you're creating by playtesting with users that aren't friends and family. This relates back to including "fun" as a KPI and having _some_ kind of methodology for interpreting playtesting results (simply collecting data doesn't count!).
 
 ---
-
-## Notes
+ Notes
 * Was interesting to see how game ideas come out of large companies
     - someone at the company as an idea that involves a game and they think it would be a good thing to make, they get a budget to work on a prototype.
 * Surprised a the budget provided to the team to make the prototype
