@@ -29,4 +29,33 @@ I started out using C-MOD levels around C300, and now I play with C550-C600 (the
 * Exhibitionism
 * Flow state and muscle memory, brain hacks
     - It's easier to play harder songs than simple ones, I can stop myself from thinking when I play a hard song and just react.
+* Sight reading and meta-cognition while playing
+* How am I able to talk while playing?
+* What is the timing window for notes when playing at C600?
+* Screen lag in the 10-30ms range is noticeable
+* What's the timing windows for the grading?
+* Certain songs feel really good to play, why?
+* Learning to play using an arcade stick; why bigger buttons are better
+* How not to injure yourself while playing.
+* Splitting your mind between left and right hands
+
+## Good stepfile qualities
+
+* Strong rhythm, song with a strong beat that appears in the steps
+* A theme or chorus that repeats
+* A coherent logic to the organization of the steps
+* Good interaction between left and right hands
+* Feeling ike you're playing a song
+* Flourishes
+* Smart bomb placement can be very fun
+* Higher BPM is usually better, otherwise a low BPM song needs a good lyrical quality
+
+## Bad qualities
+
+* Too many steps = mashing
+* Not being able to learn the song by sight reading
+* Following a rhythm that is too hard to discern from the music
+* Bad synchronization
+* Mixing jumps with singles in certain ways can make the steps hard to parse; visual distribution is too even and appears random (e.g. the end of Thrillseeker)
+* 
 
