@@ -1,14 +1,14 @@
 # Game Dev Hacker
 
-<!-- MarkdownTOC autolink=true bracket=square -->
+<!-- MarkdownTOC autolink=true bracket=round -->
 
-- [Keynote -- Brandon Quarteraro, VC & Investment][keynote----brandon-quarteraro-vc--investment]
-- [The Challenge For Indie Devs to Get Published][the-challenge-for-indie-devs-to-get-published]
-- [Rovio - Case Study (by Mikko Setala, Rovio)][rovio---case-study-by-mikko-setala-rovio]
-- [Marketing In-game Advertising][marketing-in-game-advertising]
-- [Fundamentals of Game Design][fundamentals-of-game-design]
-- [Mobile games][mobile-games]
-- [Google Play][google-play]
+- [Keynote -- Brandon Quarteraro, VC & Investment](#keynote----brandon-quarteraro-vc--investment)
+- [The Challenge For Indie Devs to Get Published](#the-challenge-for-indie-devs-to-get-published)
+- [Rovio - Case Study (by Mikko Setala, Rovio)](#rovio---case-study-by-mikko-setala-rovio)
+- [Marketing In-game Advertising](#marketing-in-game-advertising)
+- [Fundamentals of Game Design](#fundamentals-of-game-design)
+- [Mobile games](#mobile-games)
+- [Google Play](#google-play)
 
 <!-- /MarkdownTOC -->
 
