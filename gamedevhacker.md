@@ -15,6 +15,8 @@
 
 ## Keynote -- Brandon Quarteraro, VC & Investment
 
+[Top](#game-dev-hacker)
+
 Acquisitions and investments across the industry into games companies.
 Cost of distribution and user acquisition has decreased greatly (digital distribution and direct to consumer).
 Revenue per user is increasing
@@ -55,6 +57,8 @@ Casual games may cool down as developers and investors look for the next innovat
 
 ## Rovio - Case Study (by Mikko Setala, Rovio)
 
+[Top](#game-dev-hacker)
+
 2005 - Rovio: "Games for gamers" was a bad idea. Almost went bankrupt 4 times.
 Pivoted to "delight the fans". Made Angry Birds. Now 2.1Bn downloads & 27M Facebook followers. Couldn't do this before social media. The consumer has the power to make brands powerful.
 
@@ -90,6 +94,8 @@ Books & Learning aren't very profitable, but the goal is to control the story.
 
 ## Marketing In-game Advertising
 
+[Top](#game-dev-hacker)
+
 There's different kinds of advertising
 
 * Performance ads (e.g. ads that lead to installations)
@@ -116,17 +122,25 @@ The platform affects how users of games, even users who play the same game on di
 
 ## Fundamentals of Game Design
 
+[Top](#game-dev-hacker)
+
 Greg: context, how and where. moma game: people didn't want to play a game in a museum, even if the game was fun
+
 David: simplicity, rules, aesthetics. communicating the game without the need for the player to play it [also talked a lot about tactile qualities of games]
+
 Jason: enjoyment
 
 ## Mobile games
+
+[Top](#game-dev-hacker)
 
 Preserving a sense of imagination in the face of data
 
 using UI elements of not-yet-implemented features to get data about which feature should be implemented next.
 
 ## Google Play
+
+[Top](#game-dev-hacker)
 
 Think globally: 2.5x US sales when sales are primarily international
 
