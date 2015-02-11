@@ -32,6 +32,8 @@ Casual games may cool down as developers and investors look for the next innovat
 
 ## The Challenge For Indie Devs to Get Published
 
+[Top](#game-dev-hacker)
+
 * Do devs need a publisher?
     - Having enough capital to spend money on marketing is important
     - you don't _need_ one but the role of a publisher is changing in today's market.
